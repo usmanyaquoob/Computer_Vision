@@ -1,4 +1,4 @@
-Tasks in the Computer Vision
+*Tasks in the Computer Vision*
 This repository encompasses a set of lab assignments in the realm of computer vision, undertaken as part of coursework or projects. These exercises span various computer vision principles and methodologies, showcasing adeptness in areas such as image processing, object detection, and related domains.
 
 Lab 01: Basics of Image Processing
